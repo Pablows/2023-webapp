@@ -10,7 +10,7 @@ Localidade: IFRN-CNAT-DIATINF
 
 Professor: [Leonardo Ataide Minora](https://github.com/leonardo-minora)
 
-## Pablo Marreiro da Silva
+## Pablo Marreiro da Silva (https://github.com/Pablows)
 ## Log do projeto
 | Data | Descrição |
 | --- | --- |
